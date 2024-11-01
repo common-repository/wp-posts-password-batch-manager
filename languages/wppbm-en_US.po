@@ -1,0 +1,997 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Bulk Add Posts password\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-18 08:47+0800\n"
+"PO-Revision-Date: 2016-02-18 08:47+0800\n"
+"Last-Translator: Coolwp <coolwp.com@gmail.com>\n"
+"Language-Team: suifengtec <suifengtec@qq.com>\n"
+"Language: en_IE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-wppbm-posts-table.php:33
+msgid "ID"
+msgstr ""
+
+#: classes/class-wppbm-posts-table.php:34
+msgid "Title"
+msgstr ""
+
+#: classes/class-wppbm-posts-table.php:35
+msgid "Author"
+msgstr ""
+
+#: classes/class-wppbm-posts-table.php:36
+msgid "Password"
+msgstr ""
+
+#: classes/class-wppbm-posts-table.php:37
+msgid "Date"
+msgstr ""
+
+#: classes/class-wppbm-posts-table.php:103
+msgid "Add Password"
+msgstr ""
+
+#: classes/class-wppbm-posts-table.php:104
+msgid "Delete Password"
+msgstr ""
+
+#: classes/class-wppbm-posts-table.php:150
+#, php-format
+msgid "Password deleted from Post %s."
+msgstr ""
+
+#: classes/class-wppbm-posts-table.php:178
+#, php-format
+msgid "Password added to %s."
+msgstr ""
+
+#: includes/settings-api.php:32 wp-posts-password-batch-manager.php:96
+msgid "Posts password settings"
+msgstr ""
+
+#: includes/settings-api.php:32 wp-posts-password-batch-manager.php:96
+msgid "My PSW"
+msgstr ""
+
+#: includes/settings-api.php:39
+msgid "General"
+msgstr ""
+
+#: includes/settings-api.php:60
+msgid "My Password"
+msgstr ""
+
+#: includes/settings-api.php:61
+msgid "Setting your password here"
+msgstr ""
+
+#: includes/settings-api.php:69
+msgid "Add your password to all posts"
+msgstr ""
+
+#: includes/settings-api.php:70
+msgid "bulk add your password to  all posts?"
+msgstr ""
+
+#: includes/settings-api.php:75
+msgid "Delete your password from all posts"
+msgstr ""
+
+#: includes/settings-api.php:76
+msgid "bulk delete all posts password the last added?"
+msgstr ""
+
+#: includes/settings-api.php:83
+msgid "Next step"
+msgstr ""
+
+#: includes/settings-api.php:84
+msgid ""
+"Navigating to the subemenu \"Posts list\" to select posts you want to add/"
+"remove password, or navigating to the another tab to bulk add/remove "
+"password to posts."
+msgstr ""
+
+#: wp-posts-password-batch-manager.php:69
+msgid "Posts"
+msgstr ""
+
+#: wp-posts-password-batch-manager.php:98
+msgid "Posts list"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Manual Added"
+#~ msgstr "暂无支付选项。"
+
+#, fuzzy
+#~ msgid "No users found"
+#~ msgstr "页面未找到"
+
+#, fuzzy
+#~ msgid "upgrade now"
+#~ msgstr "支付接口优惠 "
+
+#, fuzzy
+#~ msgid "Payment added"
+#~ msgstr "暂无支付选项。"
+
+#, fuzzy
+#~ msgid "Payment creation failed"
+#~ msgstr "支付宝支付失败通知"
+
+#, fuzzy
+#~ msgid "Payment update failed"
+#~ msgstr "支付宝支付失败通知"
+
+#, fuzzy
+#~ msgid "Database upgrade complete"
+#~ msgstr "将完整的记录保存为PDF"
+
+#, fuzzy
+#~ msgid "Member updated"
+#~ msgstr "设置一更新"
+
+#, fuzzy
+#~ msgid "Subscription level added"
+#~ msgstr "暂无支付选项。"
+
+#, fuzzy
+#~ msgid "Subscription level updated"
+#~ msgstr "设置一更新"
+
+#, fuzzy
+#~ msgid "Discount code created"
+#~ msgstr " %s特别优惠:"
+
+#, fuzzy
+#~ msgid "Discounts"
+#~ msgstr "支付接口优惠"
+
+#, fuzzy
+#~ msgid "Discount Codes"
+#~ msgstr " %s特别优惠:"
+
+#, fuzzy
+#~ msgid "Settings"
+#~ msgstr "设置"
+
+#, fuzzy
+#~ msgid "Export Member Data"
+#~ msgstr "导出"
+
+#, fuzzy
+#~ msgid "Export"
+#~ msgstr "导出"
+
+#, fuzzy
+#~ msgid "Help"
+#~ msgstr ""
+#~ "You can find Envato Username and API key in to the Envato Control Panel > "
+#~ "My Settings > API Key. <a href=\"http://www.webbudesign.com/envato/apikey."
+#~ "png\" target=\"_blank\">For more detail click here to see help photo.</a>"
+
+#, fuzzy
+#~ msgid "Access Level"
+#~ msgstr "拒绝访问"
+
+#, fuzzy
+#~ msgid "Name"
+#~ msgstr "称呼"
+
+#, fuzzy
+#~ msgid "Description"
+#~ msgstr "描述"
+
+#, fuzzy
+#~ msgid "Code"
+#~ msgstr "ID"
+
+#, fuzzy
+#~ msgid "Amount"
+#~ msgstr "金额"
+
+#, fuzzy
+#~ msgid "Type"
+#~ msgstr "类型"
+
+#, fuzzy
+#~ msgid "Status"
+#~ msgstr "状态"
+
+#, fuzzy
+#~ msgid "Uses Left"
+#~ msgstr "左菜单"
+
+#, fuzzy
+#~ msgid "Percentage"
+#~ msgstr ""
+#~ "请为每一种已启用的支付接口输入一个优惠额度(如果是在价格上减去一个固定的数"
+#~ "字，可以这样写20.99，如果是在价格上减去一个百分比，可以这样写5%)."
+
+#, fuzzy
+#~ msgid "expired"
+#~ msgstr "预存过期页面:"
+
+#, fuzzy
+#~ msgid "Edit"
+#~ msgstr "（编辑）"
+
+#, fuzzy
+#~ msgid "Activate"
+#~ msgstr "激活"
+
+#, fuzzy
+#~ msgid "Delete"
+#~ msgstr "删除"
+
+#, fuzzy
+#~ msgid "No discount codes added yet."
+#~ msgstr "暂无支付选项。"
+
+#, fuzzy
+#~ msgid "Add New Discount"
+#~ msgstr "添加"
+
+#, fuzzy
+#~ msgid "The name of this discount"
+#~ msgstr "称呼"
+
+#, fuzzy
+#~ msgid "The description of this discount code"
+#~ msgstr "描述"
+
+#, fuzzy
+#~ msgid "Flat amount"
+#~ msgstr "金额"
+
+#, fuzzy
+#~ msgid "The kind of discount to apply for this discount."
+#~ msgstr " %s特别优惠:"
+
+#, fuzzy
+#~ msgid "The amount of this discount code."
+#~ msgstr "金额"
+
+#, fuzzy
+#~ msgid "Expiration date"
+#~ msgstr "日期"
+
+#, fuzzy
+#~ msgid "Add Discount Code"
+#~ msgstr "添加"
+
+#, fuzzy
+#~ msgid "Edit Discount Code:"
+#~ msgstr "（编辑）"
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+#, fuzzy
+#~ msgid " Name"
+#~ msgstr "称呼"
+
+#, fuzzy
+#~ msgid " The name of this discount"
+#~ msgstr "称呼"
+
+#, fuzzy
+#~ msgid " Description"
+#~ msgstr "描述"
+
+#, fuzzy
+#~ msgid " The description of this discount code"
+#~ msgstr "描述"
+
+#, fuzzy
+#~ msgid " Code"
+#~ msgstr "ID"
+
+#, fuzzy
+#~ msgid " Type"
+#~ msgstr "类型"
+
+#, fuzzy
+#~ msgid " Percentage"
+#~ msgstr ""
+#~ "请为每一种已启用的支付接口输入一个优惠额度(如果是在价格上减去一个固定的数"
+#~ "字，可以这样写20.99，如果是在价格上减去一个百分比，可以这样写5%)."
+
+#, fuzzy
+#~ msgid " Flat amount"
+#~ msgstr "金额"
+
+#, fuzzy
+#~ msgid " The kind of discount to apply for this discount."
+#~ msgstr " %s特别优惠:"
+
+#, fuzzy
+#~ msgid " Amount"
+#~ msgstr "金额"
+
+#, fuzzy
+#~ msgid " The amount of this discount code."
+#~ msgstr "金额"
+
+#, fuzzy
+#~ msgid " Expiration date"
+#~ msgstr "日期"
+
+#, fuzzy
+#~ msgid " Status"
+#~ msgstr "状态"
+
+#, fuzzy
+#~ msgid " The status of this discount code."
+#~ msgstr "状态"
+
+#, fuzzy
+#~ msgid " Update Discount"
+#~ msgstr "自动升级"
+
+#, fuzzy
+#~ msgid "Members Export"
+#~ msgstr "导出"
+
+#, fuzzy
+#~ msgid "All"
+#~ msgstr "安装已完成"
+
+#, fuzzy
+#~ msgid "Pending"
+#~ msgstr "等待确认"
+
+#, fuzzy
+#~ msgid "Expired"
+#~ msgstr "预存过期页面:"
+
+#, fuzzy
+#~ msgid "Choose the status to export"
+#~ msgstr "状态"
+
+#, fuzzy
+#~ msgid "The number of members to skip"
+#~ msgstr "金额不是一个数字"
+
+#, fuzzy
+#~ msgid "Payments Export"
+#~ msgstr "导出"
+
+#, fuzzy
+#~ msgid "Member Details"
+#~ msgstr "显示详情"
+
+#, fuzzy
+#~ msgid "Adding Discounts"
+#~ msgstr "支付接口优惠"
+
+#, fuzzy
+#~ msgid "Editing Discounts"
+#~ msgstr "支付接口优惠"
+
+#, fuzzy
+#~ msgid "Using Discounts"
+#~ msgstr "支付接口优惠"
+
+#, fuzzy
+#~ msgid "PayPal"
+#~ msgstr "Paypal"
+
+#, fuzzy
+#~ msgid "Logging"
+#~ msgstr "启用调试记录"
+
+#, fuzzy
+#~ msgid "Help Documentation"
+#~ msgstr "文档"
+
+#, fuzzy
+#~ msgid "Access Level Pro"
+#~ msgstr "拒绝访问"
+
+#, fuzzy
+#~ msgid "Show Excerpt?"
+#~ msgstr "显示详情"
+
+#, fuzzy
+#~ msgid "Hide from Feed?"
+#~ msgstr "隐藏详情"
+
+#, fuzzy
+#~ msgid "User Level"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "Short Code Reference"
+#~ msgstr "ID"
+
+#, fuzzy
+#~ msgid "Template Tag Reference"
+#~ msgstr "电邮模板中可用的短代码。"
+
+#, fuzzy
+#~ msgid "View logs for this user"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "Log Error"
+#~ msgstr "调试记录"
+
+#, fuzzy
+#~ msgid "Log Message"
+#~ msgstr "信息"
+
+#, fuzzy
+#~ msgid "User"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "RCP Error Logs"
+#~ msgstr "404错误"
+
+#, fuzzy
+#~ msgid "Edit Member:"
+#~ msgstr "（编辑）"
+
+#, fuzzy
+#~ msgid "The status of this user's subscription"
+#~ msgstr "状态"
+
+#, fuzzy
+#~ msgid "Is this user's subscription recurring?"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "Sign Up Method"
+#~ msgstr "提交方法"
+
+#, fuzzy
+#~ msgid "User Signup"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "Added by admin manually"
+#~ msgstr "管理员电邮"
+
+#, fuzzy
+#~ msgid "User Notes"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "Update User Subscription"
+#~ msgstr "自动升级"
+
+#, fuzzy
+#~ msgid "Status: "
+#~ msgstr "状态"
+
+#, fuzzy
+#~ msgid "Search Members"
+#~ msgstr "搜索"
+
+#, fuzzy
+#~ msgid "Search members"
+#~ msgstr "搜索"
+
+#, fuzzy
+#~ msgid "Email"
+#~ msgstr "Paypal电邮"
+
+#, fuzzy
+#~ msgid "Start Date"
+#~ msgstr "日期"
+
+#, fuzzy
+#~ msgid "User Role"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "View User's Profile"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "yes"
+#~ msgstr "是"
+
+#, fuzzy
+#~ msgid "Details"
+#~ msgstr "显示详情"
+
+#, fuzzy
+#~ msgid "No subscribers found"
+#~ msgstr "页面未找到"
+
+#, fuzzy
+#~ msgid "&laquo; Previous"
+#~ msgstr "上一页"
+
+#, fuzzy
+#~ msgid "Next &raquo;"
+#~ msgstr "下一页"
+
+#, fuzzy
+#~ msgid "Username"
+#~ msgstr "用户名"
+
+#, fuzzy
+#~ msgid "--choose--"
+#~ msgstr "输入一个自定义的预存金额"
+
+#, fuzzy
+#~ msgid "Add User Subscription"
+#~ msgstr "添加"
+
+#, fuzzy
+#~ msgid "View Member Details:"
+#~ msgstr "显示详情"
+
+#, fuzzy
+#~ msgid "Go Back"
+#~ msgstr "返回"
+
+#, fuzzy
+#~ msgid "Subscription key"
+#~ msgstr "许可证密钥"
+
+#, fuzzy
+#~ msgid "Signup Method"
+#~ msgstr "提交方法"
+
+#, fuzzy
+#~ msgid "Regular user signup"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "Manually added by an admin"
+#~ msgstr "管理员电邮"
+
+#, fuzzy
+#~ msgid "Discount codes used"
+#~ msgstr " %s特别优惠:"
+
+#, fuzzy
+#~ msgid "Restrict this content"
+#~ msgstr "内容设置"
+
+#, fuzzy
+#~ msgid "Note 1"
+#~ msgstr "备注"
+
+#, fuzzy
+#~ msgid "Note 2"
+#~ msgstr "备注"
+
+#, fuzzy
+#~ msgid "Edit Payment"
+#~ msgstr "（编辑）"
+
+#, fuzzy
+#~ msgid "The amount of this payment"
+#~ msgstr "将会显示为支付金额"
+
+#, fuzzy
+#~ msgid "Payment Date"
+#~ msgstr "日期"
+
+#, fuzzy
+#~ msgid "Transaction ID"
+#~ msgstr "交易记录key"
+
+#, fuzzy
+#~ msgid "Update Payment"
+#~ msgstr "自动升级"
+
+#, fuzzy
+#~ msgid "Search Payments"
+#~ msgstr "搜索"
+
+#, fuzzy
+#~ msgid "Reset User Filter"
+#~ msgstr "重置设置"
+
+#, fuzzy
+#~ msgid "Subscription Key"
+#~ msgstr "许可证密钥"
+
+#, fuzzy
+#~ msgid "View payments by this user"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "No payments recorded yet"
+#~ msgstr "未上传文件。"
+
+#, fuzzy
+#~ msgid "Custom"
+#~ msgstr "自定义查看"
+
+#, fuzzy
+#~ msgid "From"
+#~ msgstr "无法从您的帐户中扣除金额"
+
+#, fuzzy
+#~ msgid "All Subscription Levels"
+#~ msgstr "安装已完成"
+
+#, fuzzy
+#~ msgid "Members per page"
+#~ msgstr "页面"
+
+#, fuzzy
+#~ msgid "Payments per page"
+#~ msgstr "页面"
+
+#, fuzzy
+#~ msgid "Options saved"
+#~ msgstr "图片已上传并保存。"
+
+#, fuzzy
+#~ msgid "PDF Invoices"
+#~ msgstr "PDF"
+
+#, fuzzy
+#~ msgid "License Key"
+#~ msgstr "许可证密钥"
+
+#, fuzzy
+#~ msgid "Deactivate License"
+#~ msgstr "激活许可证"
+
+#, fuzzy
+#~ msgid "Currency"
+#~ msgstr "币种:"
+
+#, fuzzy
+#~ msgid "Choose your currency."
+#~ msgstr "币种:"
+
+#, fuzzy
+#~ msgid "Currency Position"
+#~ msgstr "币种标识的位置"
+
+#, fuzzy
+#~ msgid "Before - $10"
+#~ msgstr "前"
+
+#, fuzzy
+#~ msgid "After - 10$"
+#~ msgstr "后"
+
+#, fuzzy
+#~ msgid "PayPal Settings"
+#~ msgstr "Paypal"
+
+#, fuzzy
+#~ msgid "PayPal Address"
+#~ msgstr "Paypal"
+
+#, fuzzy
+#~ msgid "Enter your PayPal email address."
+#~ msgstr "请输入支付宝邮箱"
+
+#, fuzzy
+#~ msgid "PayPal Page Style"
+#~ msgstr "Paypal"
+
+#, fuzzy
+#~ msgid "Sandbox Mode"
+#~ msgstr "测试模式"
+
+#, fuzzy
+#~ msgid "Disable CURL"
+#~ msgstr "禁用"
+
+#, fuzzy
+#~ msgid "Disable IPN Verification"
+#~ msgstr "禁用"
+
+#, fuzzy
+#~ msgid "Free Content Message"
+#~ msgstr "信息"
+
+#, fuzzy
+#~ msgid "Premium Content Message"
+#~ msgstr "信息"
+
+#, fuzzy
+#~ msgid "Registration Page"
+#~ msgstr "页面"
+
+#, fuzzy
+#~ msgid "No pages found"
+#~ msgstr "页："
+
+#, fuzzy
+#~ msgid "Success Page"
+#~ msgstr "预存成功页面:"
+
+#, fuzzy
+#~ msgid "Disable Form CSS"
+#~ msgstr "禁用"
+
+#, fuzzy
+#~ msgid "Active Subscription Email"
+#~ msgstr "Paypal电邮"
+
+#, fuzzy
+#~ msgid "Subject"
+#~ msgstr "标题"
+
+#, fuzzy
+#~ msgid "Email Body"
+#~ msgstr "Paypal电邮"
+
+#, fuzzy
+#~ msgid "Cancelled Subscription Email"
+#~ msgstr "Paypal电邮"
+
+#, fuzzy
+#~ msgid "Subject line"
+#~ msgstr "发送给用户的支付宝支付邮件标题"
+
+#, fuzzy
+#~ msgid ""
+#~ "The subject line for the email sent to users when their subscription is "
+#~ "cancelled."
+#~ msgstr "发送给用户的支付宝支付邮件标题"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is the email message that is sent to users when their subscription "
+#~ "is cancelled."
+#~ msgstr "发送给用户的支付宝支付失败邮件"
+
+#, fuzzy
+#~ msgid "Expired Subscription Email"
+#~ msgstr "预存过期页面:"
+
+#, fuzzy
+#~ msgid ""
+#~ "The subject line for the email sent to users when their subscription is "
+#~ "expired."
+#~ msgstr "发送给用户的支付宝支付邮件标题"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is the email message that is sent to users when their subscription "
+#~ "is expired."
+#~ msgstr "发送给用户的支付宝支付失败邮件"
+
+#, fuzzy
+#~ msgid "Expiring Soon Email"
+#~ msgstr "Paypal电邮"
+
+#, fuzzy
+#~ msgid "Free Subscription Email"
+#~ msgstr "Paypal电邮"
+
+#, fuzzy
+#~ msgid "Trial Subscription Email"
+#~ msgstr "Paypal电邮"
+
+#, fuzzy
+#~ msgid "New User Notifications"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "Available Template Tags"
+#~ msgstr "支付宝模板标签:"
+
+#, fuzzy
+#~ msgid "will be replaced with the name of the subscription"
+#~ msgstr "称呼"
+
+#, fuzzy
+#~ msgid "will be replaced with the amount of the users last payment"
+#~ msgstr "将会显示为支付金额"
+
+#, fuzzy
+#~ msgid "Invoice Logo"
+#~ msgstr "Logo设置"
+
+#, fuzzy
+#~ msgid "Choose Logo"
+#~ msgstr "Logo设置"
+
+#, fuzzy
+#~ msgid "Company Name"
+#~ msgstr "公司名称:"
+
+#, fuzzy
+#~ msgid "Address Line 1"
+#~ msgstr "公司地址:"
+
+#, fuzzy
+#~ msgid "Address Line 2"
+#~ msgstr "风格2"
+
+#, fuzzy
+#~ msgid "Header Text"
+#~ msgstr "菜单顶部条"
+
+#, fuzzy
+#~ msgid "Footer Text"
+#~ msgstr "PDF文档底部:"
+
+#, fuzzy
+#~ msgid "Hide Premium Posts"
+#~ msgstr "隐藏详情"
+
+#, fuzzy
+#~ msgid "Redirect Page"
+#~ msgstr "页面"
+
+#, fuzzy
+#~ msgid "Login Page"
+#~ msgstr "登录"
+
+#, fuzzy
+#~ msgid "Prevent Account Sharing"
+#~ msgstr "支付宝电邮帐号"
+
+#, fuzzy
+#~ msgid "Email IPN reports"
+#~ msgstr "Paypal电邮"
+
+#, fuzzy
+#~ msgid "Save Options"
+#~ msgstr "保存更改"
+
+#, fuzzy
+#~ msgid "Edit Subscription Level:"
+#~ msgstr "（编辑）"
+
+#, fuzzy
+#~ msgid "Days(s)"
+#~ msgstr "%1$s的%2$s"
+
+#, fuzzy
+#~ msgid "Month(s)"
+#~ msgstr "%1$s的%2$s"
+
+#, fuzzy
+#~ msgid "Years(s)"
+#~ msgstr "%1$s的%2$s"
+
+#, fuzzy
+#~ msgid "Price"
+#~ msgstr "价格会自动转换为"
+
+#, fuzzy
+#~ msgid "Update Subscription"
+#~ msgstr "自动升级"
+
+#, fuzzy
+#~ msgid "Order"
+#~ msgstr "订单数量"
+
+#, fuzzy
+#~ msgid "No subscription levels added yet."
+#~ msgstr "暂无支付选项。"
+
+#, fuzzy
+#~ msgid "Add New Level"
+#~ msgstr "添加"
+
+#, fuzzy
+#~ msgid "The name of the membership level."
+#~ msgstr "称呼"
+
+#, fuzzy
+#~ msgid "Add Membership Level"
+#~ msgstr "添加"
+
+#, fuzzy
+#~ msgid "User ID"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "User Login"
+#~ msgstr "登录"
+
+#, fuzzy
+#~ msgid "User Email"
+#~ msgstr "Gebruiker:"
+
+#, fuzzy
+#~ msgid "First Name"
+#~ msgstr "称呼"
+
+#, fuzzy
+#~ msgid "Last Name"
+#~ msgstr "称呼"
+
+#, fuzzy
+#~ msgid "Payment Type"
+#~ msgstr "支付宝商户接口类型"
+
+#, fuzzy
+#~ msgid "Error"
+#~ msgstr "404错误"
+
+#, fuzzy
+#~ msgid "is now subscribed to"
+#~ msgstr "支付接口优惠 "
+
+#, fuzzy
+#~ msgid "Thank you"
+#~ msgstr "感谢您的惠顾，我们已经收到了您的订单！"
+
+#, fuzzy
+#~ msgid "subscription has expired"
+#~ msgstr "预存过期页面:"
+
+#, fuzzy
+#~ msgid "Expired subscription on "
+#~ msgstr "预存过期页面:"
+
+#, fuzzy
+#~ msgid "Duplicate Payment"
+#~ msgstr "支付方法"
+
+#, fuzzy
+#~ msgid "Invalid Currency Code"
+#~ msgstr "币种代码:"
+
+#, fuzzy
+#~ msgid "Subscription Key Mismatch"
+#~ msgstr "许可证密钥"
+
+#, fuzzy
+#~ msgid "Invalid IPN"
+#~ msgstr "不可用的金额(示例：10)"
+
+#, fuzzy
+#~ msgid "Logs"
+#~ msgstr "记录调试时间，在<code>woocommerce/logs/"
+
+#, fuzzy
+#~ msgid "Invalid username"
+#~ msgstr "用户名"
+
+#, fuzzy
+#~ msgid "Username already taken"
+#~ msgstr "用户名"
+
+#, fuzzy
+#~ msgid "Invalid email"
+#~ msgstr "不可用的金额(示例：10)"
+
+#, fuzzy
+#~ msgid "Email already registered"
+#~ msgstr "Paypal电邮"
+
+#, fuzzy
+#~ msgid "You must choose a username"
+#~ msgstr "您需要在登录后才可捐赠！"
+
+#, fuzzy
+#~ msgid "Use as Logo"
+#~ msgstr "Logo设置"
+
+#, fuzzy
+#~ msgid "Choose a Logo"
+#~ msgstr "Logo设置"
+
+#, fuzzy
+#~ msgid "Edit Subscription"
+#~ msgstr "（编辑）"
+
+#, fuzzy
+#~ msgid "Add Subscription"
+#~ msgstr "添加"
+
+#, fuzzy
+#~ msgid "View Details"
+#~ msgstr "显示详情"

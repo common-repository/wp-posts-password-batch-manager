@@ -1,0 +1,817 @@
+# WooCommerce translation strings
+# Copyright (C) 2011-2012
+# This file is distributed under the same license as the WooCommerce package.
+# Last Updated: February 24, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Bulk Add Posts password\n"
+"Report-Msgid-Bugs-To: Matt Gates <info@mgates.me\n"
+"POT-Creation-Date: 2016-02-18 07:45+0800\n"
+"PO-Revision-Date: 2016-02-18 07:47+0800\n"
+"Last-Translator: Coolwp <coolwp.com@gmail.com>\n"
+"Language-Team: suifengtec <suifengtec@qq.com>\n"
+"Language: en_IE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;gettext\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2;plural=(n!=1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../classes/class-wppbm-posts-table.php:33
+msgid "ID"
+msgstr "ID"
+
+#: ../classes/class-wppbm-posts-table.php:34
+msgid "Title"
+msgstr "标题"
+
+#: ../classes/class-wppbm-posts-table.php:35
+msgid "Author"
+msgstr "作者"
+
+#: ../classes/class-wppbm-posts-table.php:36
+msgid "Password"
+msgstr "密码"
+
+#: ../classes/class-wppbm-posts-table.php:37
+msgid "Date"
+msgstr "日期"
+
+#: ../classes/class-wppbm-posts-table.php:103
+msgid "Add Password"
+msgstr "添加密码"
+
+#: ../classes/class-wppbm-posts-table.php:104
+msgid "Delete Password"
+msgstr "删除密码"
+
+#: ../classes/class-wppbm-posts-table.php:150
+#, php-format
+msgid "Password deleted from Post %s."
+msgstr "文章 %s 的密码已清除。"
+
+#: ../classes/class-wppbm-posts-table.php:178
+#, php-format
+msgid "Password added to %s."
+msgstr "设定的密码已添加到%s。"
+
+#: ../inc/settings-api.php:31
+msgid "Posts password settings"
+msgstr "文章密码设置"
+
+#: ../inc/settings-api.php:31
+msgid "My PSW"
+msgstr "我的密码"
+
+#: ../inc/settings-api.php:38
+msgid "General"
+msgstr "常规"
+
+#: ../inc/settings-api.php:42
+msgid "Bulk Action"
+msgstr "批量设置"
+
+#: ../inc/settings-api.php:59
+msgid "My Password"
+msgstr "我的密码"
+
+#: ../inc/settings-api.php:60
+msgid "Setting your password here"
+msgstr "在这里设置您的密码"
+
+#: ../inc/settings-api.php:66
+msgid "Next step"
+msgstr "下一步"
+
+#: ../inc/settings-api.php:67
+msgid ""
+"Navigating to the subemenu \"Posts list\" to select posts you want to add/"
+"remove password, or navigating to the another tab to bulk add/remove "
+"password to posts."
+msgstr ""
+"可到 \"文章列表\" 子菜单对某些文章进行密码添加或清除，也可以到另外一个选项卡"
+"对全部文章进行密码添加或清除。"
+
+#: ../inc/settings-api.php:78
+msgid "Add your password to all posts"
+msgstr "将我的密码添加到全部文章"
+
+#: ../inc/settings-api.php:79
+msgid "bulk add your password to  all posts?"
+msgstr "将我在上个选项卡页面设置的页面应用于全部文章"
+
+#: ../inc/settings-api.php:84
+msgid "Delete your password from all posts"
+msgstr "取消全部文章密码"
+
+#: ../inc/settings-api.php:85
+msgid "bulk delete all posts password the last added?"
+msgstr "批量删除上次添加的密码？"
+
+#: ../inc/view-wppbm-posts.php:5
+msgid "Posts list"
+msgstr "文章列表"
+
+#: ../inc/view-wppbm-posts.php:15
+msgid "Posts"
+msgstr "文章"
+
+#~ msgid "Post ID"
+#~ msgstr "文章ID"
+
+#~ msgid "Post title"
+#~ msgstr "文章标题"
+
+#~ msgid "Created date"
+#~ msgstr "创建日期"
+
+#~ msgid "Password added!"
+#~ msgstr "密码已添加！"
+
+#~ msgid "Password deleted!"
+#~ msgstr "密码已删除！"
+
+#~ msgid "Posts deleted!"
+#~ msgstr "文章已删除！"
+
+#~ msgid ""
+#~ "Navigating to the subemenu \"Posts\" to select posts you want to add the "
+#~ "above password or navigating to the another tab to bulk add the above "
+#~ "password to posts."
+#~ msgstr ""
+#~ "定位到右边的选项卡 \"批量设置\"可以为全部文章添加或者删除密码；定位到左侧"
+#~ "菜单 \"我的密码\"下的子菜单 \"文章列表\"，可以为特定文章添加或者删除密码。"
+
+#~ msgid "Password start date"
+#~ msgstr "密码开始日期"
+
+#~ msgid "select your password start date"
+#~ msgstr "请选择密码生效日期"
+
+#~ msgid "Password end date"
+#~ msgstr "密码失效日期"
+
+#~ msgid "select your password end date"
+#~ msgstr "请选择密码失效日期"
+
+#~ msgid "Password duration usage"
+#~ msgstr "在日期区间内使用密码"
+
+#~ msgid "Do you want to use a password duration?"
+#~ msgstr "您是否想在某一日期区间内使用密码？"
+
+#~ msgid "No"
+#~ msgstr "否"
+
+#~ msgid "Yes"
+#~ msgstr "是"
+
+#, fuzzy
+#~ msgid "Vendors shipped"
+#~ msgstr "供应商面板"
+
+#~ msgid "Vendors Shipped"
+#~ msgstr "供应商已发货"
+
+#~ msgid "Commission"
+#~ msgstr "返成"
+
+#~ msgid "Product"
+#~ msgstr "商品"
+
+#~ msgid "Order ID"
+#~ msgstr "订单ID"
+
+#~ msgid "Vendor"
+#~ msgstr "供应商"
+
+#~ msgid "Total"
+#~ msgstr "小计"
+
+#~ msgid "Status"
+#~ msgstr "状态"
+
+#~ msgid "Mark paid"
+#~ msgstr "标记为已支付"
+
+#~ msgid "Mark due"
+#~ msgstr "标记归属"
+
+#~ msgid "Filter"
+#~ msgstr "过滤器"
+
+#~ msgid "Show all dates"
+#~ msgstr "显示全部日期"
+
+#~ msgid "%1$s %2$d"
+#~ msgstr "%1$s %2$d"
+
+#~ msgid "Commission marked paid."
+#~ msgstr "佣金已标记为支付。"
+
+#~ msgid "Commission marked due."
+#~ msgstr "佣金以标记为归属"
+
+#~ msgid "Product Vendors"
+#~ msgstr "商品供应商"
+
+#~ msgid "Overview"
+#~ msgstr "概览"
+
+#, fuzzy
+#~ msgid "Commission by product"
+#~ msgstr "佣金以标记为归属"
+
+#~ msgid "From:"
+#~ msgstr "从:"
+
+#~ msgid "To:"
+#~ msgstr "到:"
+
+#~ msgid "Show"
+#~ msgstr "显示"
+
+#~ msgid "n/a"
+#~ msgstr "暂无"
+
+#~ msgid "Order"
+#~ msgstr "订单"
+
+#~ msgid "Date &amp; Time"
+#~ msgstr "日期时间"
+
+#~ msgid "N/A"
+#~ msgstr "暂无"
+
+#~ msgid "No commission yet"
+#~ msgstr "暂无佣金记录"
+
+#~ msgid "Show:"
+#~ msgstr "显示:"
+
+#~ msgid "Month"
+#~ msgstr "月"
+
+#~ msgid "Tax"
+#~ msgstr "税"
+
+#~ msgid "Shipping"
+#~ msgstr "运费"
+
+#~ msgid "Product Vendor"
+#~ msgstr "商品供应商"
+
+#, fuzzy
+#~ msgid "Commission rate"
+#~ msgstr "应得"
+
+#~ msgid "Seller info"
+#~ msgstr "卖家信息"
+
+#, fuzzy
+#~ msgid "Shop description"
+#~ msgstr "店铺描述"
+
+#~ msgid "Sold by"
+#~ msgstr "卖家"
+
+#, fuzzy
+#~ msgid "Vendor has shipped"
+#~ msgstr "标记为已发货"
+
+#, fuzzy
+#~ msgid "Your order has been shipped"
+#~ msgstr "标记为已发货"
+
+#~ msgid "Subtotal:"
+#~ msgstr "小计:"
+
+#~ msgid "Notify vendors"
+#~ msgstr "通知供应商"
+
+#~ msgid "Settings"
+#~ msgstr "设置"
+
+#~ msgid "Settings saved."
+#~ msgstr "设置已保存"
+
+#~ msgid "Save %s changes"
+#~ msgstr "保存%s设置"
+
+#~ msgid "General options"
+#~ msgstr "常规选项"
+
+#~ msgid "Default commission (%)"
+#~ msgstr "默认的返成比例(%)"
+
+#~ msgid ""
+#~ "The default rate the vendor receives for each product. If a product has a "
+#~ "commission rate already set, this value will be ignored for that product."
+#~ msgstr " "
+
+#~ msgid "Registration"
+#~ msgstr "注册"
+
+#~ msgid "Allow users or guests to apply to become a vendor"
+#~ msgstr "允许网站用户和访客申请成为供应商"
+
+#~ msgid ""
+#~ "This will show a checkbox on the My Account page's registration form "
+#~ "asking if the user would like to apply to be a vendor. Also, on the "
+#~ "Vendor Dashboard, users can apply to become a vendor."
+#~ msgstr ""
+#~ "勾选此项后，将会在注册页面询问是否愿意成为供应商，并且，在供应商面板，用户"
+#~ "可以申请成为供应商。"
+
+#~ msgid "Approve vendor applications manually"
+#~ msgstr "人工审核供应商身份"
+
+#~ msgid ""
+#~ "With this unchecked, all vendor applications are automatically accepted. "
+#~ "Otherwise, you must approve each manually."
+#~ msgstr ""
+#~ "不选中此项的话，全部供应商资格申请将会被自动接收，否则，您需要人工审核。"
+
+#~ msgid "Taxes"
+#~ msgstr "税"
+
+#~ msgid "Give vendors any tax collected per-product"
+#~ msgstr "将税的问题抛给供应商"
+
+#~ msgid ""
+#~ "The tax collected on a vendor's product will be given to him in its "
+#~ "entirety"
+#~ msgstr "应该在供应商协议里写明：销售价格应该是含税价格以规避潜在风险。"
+
+#~ msgid "Shop options"
+#~ msgstr "商铺选项"
+
+#~ msgid "Shop HTML"
+#~ msgstr "商铺HTML"
+
+#~ msgid "Enable HTML for a vendor's shop description by default"
+#~ msgstr "允许供应商在商铺描述中使用HTML"
+
+#~ msgid "Vendor shop page"
+#~ msgstr "供应商店铺页面链接结构"
+
+#~ msgid ""
+#~ "Eg: <code>xBerryLabs.com/[your_setting_here]/[vendor_name_here]</code>"
+#~ msgstr ""
+#~ "例如: <code>xBerryLabs.com/[your_setting_here]/[vendor_name_here]</code>"
+
+#~ msgid "Products"
+#~ msgstr "商品"
+
+#~ msgid "Product Add Page"
+#~ msgstr "产品添加页面"
+
+#~ msgid "Configure what to hide from all vendors when adding a product"
+#~ msgstr "在供应商发布商品时，想隐藏哪些商品属性"
+
+#~ msgid "Left side panel"
+#~ msgstr "商品发布页面编辑器下方左侧面板"
+
+#~ msgid "Hide these areas of the add product page for vendors"
+#~ msgstr "在供应商的商品发布页面隐藏这些区域"
+
+#~ msgid "Inventory"
+#~ msgstr "库存"
+
+#~ msgid "Linked Products"
+#~ msgstr "外接/关联产品"
+
+#~ msgid "Attributes"
+#~ msgstr "属性"
+
+#~ msgid "Advanced"
+#~ msgstr "高级"
+
+#~ msgid "Types"
+#~ msgstr "商品模式"
+
+#~ msgid "Simple"
+#~ msgstr "单个商品"
+
+#~ msgid "Variable"
+#~ msgstr "可变商品"
+
+#~ msgid "Grouped"
+#~ msgstr "成组商品"
+
+#~ msgid "External / affiliate"
+#~ msgstr "外部/推广"
+
+#~ msgid "Type options"
+#~ msgstr "商品类型"
+
+#~ msgid "Virtual"
+#~ msgstr "虚拟商品"
+
+#~ msgid "Downloadable"
+#~ msgstr "可下载商品"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "杂项"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Stylesheet"
+#~ msgstr "样式"
+
+#~ msgid ""
+#~ "You can add CSS in this textarea, which will be loaded on the product add/"
+#~ "edit page for vendors."
+#~ msgstr "您在这里输入的css将会在供应商发布/编辑商品页面载入。"
+
+#~ msgid "Capabilities"
+#~ msgstr "能力"
+
+#~ msgid "Permissions"
+#~ msgstr "权限"
+
+#~ msgid "General permissions used around the shop"
+#~ msgstr "商铺权限设置"
+
+#~ msgid "Orders"
+#~ msgstr "订单"
+
+#~ msgid "View orders"
+#~ msgstr "查看订单"
+
+#~ msgid ""
+#~ "Show customer details such as email, address, name, etc, for each order"
+#~ msgstr "显示每一个订单的顾客详情，例如电邮、地址、名称等"
+
+#~ msgid "View comments"
+#~ msgstr "查看备注"
+
+#~ msgid "View all vendor comments for an order on the frontend"
+#~ msgstr "在网站前台查看某一订单的全部的经销商备注"
+
+#~ msgid "Submit comments"
+#~ msgstr "添加备注"
+
+#~ msgid ""
+#~ "Submit comments for an order on the frontend. Eg, tracking ID for a "
+#~ "product"
+#~ msgstr "在网站前台为一个订单添加备注，例如：某商品的物流跟踪信息"
+
+#~ msgid "View email addresses"
+#~ msgstr "查看电邮地址"
+
+#~ msgid ""
+#~ "While viewing order details on the frontend, you can disable or enable "
+#~ "email addresses"
+#~ msgstr "是否允许供应商在网站前台查看订单相关的电邮地址"
+
+#~ msgid "Export a CSV file of orders for a product"
+#~ msgstr "导出产品的订单为CSV文件"
+
+#~ msgid "Vendors could export orders for a product on the frontend"
+#~ msgstr "是否允许供应商在网站前台为某一商品导出订单"
+
+#~ msgid "Reports"
+#~ msgstr "报表"
+
+#~ msgid "View backend sales reports"
+#~ msgstr "查看网站后台的销售报表"
+
+#~ msgid ""
+#~ "Graphs and tables via the Reports page in backend. The reports will only "
+#~ "display sales data that pertain to their products"
+#~ msgstr ""
+#~ "不建议启用这个，因为此项将决定是否将WooCommerce后台的销售报表显示给供应商"
+
+#~ msgid "View Frontend sales reports"
+#~ msgstr "显示前台销售报表"
+
+#~ msgid ""
+#~ "Sales table on the frontend on the My Account page. The table will only "
+#~ "display sales data that pertain to their products"
+#~ msgstr ""
+#~ "在我的账户页面显示销售数据表格，此表格仅显示与当前供应商相关的商品的销售数"
+#~ "据。"
+
+#~ msgid "Submit products"
+#~ msgstr "发布商品"
+
+#~ msgid ""
+#~ "Vendors could submit a product through the backend, and an admin would "
+#~ "approve or deny it"
+#~ msgstr ""
+#~ "供应商可以在网站后台提交商品，管理员可以决定供应商提交的商品是否需要在审核"
+#~ "后出售。"
+
+#~ msgid "Edit live products"
+#~ msgstr "编辑已发布的商品"
+
+#~ msgid ""
+#~ "Vendors could edit an approved product after it has already gone live. "
+#~ "There is no approval or review after editing a live product. This could "
+#~ "be dangerous with malicious vendors, so take caution."
+#~ msgstr "供应商是否可以编辑其发布的已经管理员审核的在售商品"
+
+#~ msgid "Submit products live without requiring approval"
+#~ msgstr "供应商提交的商品无需审核，直接发布"
+
+#~ msgid ""
+#~ "Vendors can submit products without review or approval from a shop admin. "
+#~ "This could be dangerous with malicious vendors, so take caution."
+#~ msgstr "供应商发布的商品是否需要经过管理员审核"
+
+#~ msgid "Pages"
+#~ msgstr "页面"
+
+#~ msgid "Page configuration"
+#~ msgstr "页面设置"
+
+#~ msgid "Vendor dashboard"
+#~ msgstr "供应商面板"
+
+#~ msgid ""
+#~ "Choose the page that has the shortcode <code>[pv_vendor_dashboard]</"
+#~ "code><br/>By default, My Account > Vendor Dashboard should have the "
+#~ "shortcode."
+#~ msgstr "请选择具有短代码 <code>[pv_vendor_dashboard]</code>的页面"
+
+#~ msgid ""
+#~ "Choose the page that has the shortcode <code>[pv_shop_settings]</code><br/"
+#~ ">These are the shop settings a vendor can configure."
+#~ msgstr "请选择具有短代码<code>[pv_shop_settings]</code>的页面"
+
+#~ msgid "Orders page"
+#~ msgstr "订单页面"
+
+#~ msgid ""
+#~ "Choose the page that has the shortcode <code>[pv_orders]</code><br/>By "
+#~ "default, My Account > Orders should have the shortcode."
+#~ msgstr ""
+#~ "请选择供应商查看订单的网站前台页面，该页面应该有短代码<code>[pv_orders]</"
+#~ "code>"
+
+#~ msgid "Vendor terms"
+#~ msgstr "供应商协议"
+
+#~ msgid ""
+#~ "These terms are shown to a user when submitting an application to become "
+#~ "a vendor.<br/>If left blank, no terms will be shown to the applicant."
+#~ msgstr ""
+#~ "可选的，您可以与供应商签署一个公共协议，如果您想，请在这里选择该协议内容所"
+#~ "在页面。"
+
+#~ msgid "Payments"
+#~ msgstr "支付"
+
+#~ msgid "User payments"
+#~ msgstr "用户支付"
+
+#~ msgid "Total commission currently due: %s. <a href=\"%s\">View details</a>."
+#~ msgstr "当前应付的返成金额为: %s. <a href=\"%s\">查看详情</a>。"
+
+#~ msgid "Payment schedule"
+#~ msgstr "支付频率"
+
+#~ msgid "Note: Schedule will only work if instant pay is unchecked"
+#~ msgstr "提示：只有当直接支付（开发中）未启用时，此频率设置有效"
+
+#~ msgid "Weekly"
+#~ msgstr "每周支付"
+
+#~ msgid "Biweekly"
+#~ msgstr "每本月支付"
+
+#~ msgid "Monthly"
+#~ msgstr "每月支付"
+
+#~ msgid "Manual"
+#~ msgstr "人工审核"
+
+#~ msgid "Email notification"
+#~ msgstr "点有通知"
+
+#~ msgid ""
+#~ "Send the WooCommerce admin an email each time a payment has been made via "
+#~ "the payment schedule options above"
+#~ msgstr "当给供应商付钱时，电邮通知网站管理员。"
+
+#~ msgid "Once Weekly"
+#~ msgstr "每周一次"
+
+#~ msgid "Once every two weeks"
+#~ msgstr "每两周一次"
+
+#~ msgid "Once a month"
+#~ msgstr "每月一次"
+
+#~ msgid "Pending Vendor"
+#~ msgstr "待审的供应商"
+
+#~ msgid "Vendor Dashboard"
+#~ msgstr "供应商面板"
+
+#~ msgid "Shop Settings"
+#~ msgstr "商铺设置"
+
+#, fuzzy
+#~ msgid "Order unmarked shipped."
+#~ msgstr "标记为已发货"
+
+#, fuzzy
+#~ msgid "Order marked shipped."
+#~ msgstr "标记为已发货"
+
+#~ msgid "Quantity"
+#~ msgstr "数量"
+
+#~ msgid ""
+#~ "You haven't selected a product's orders to view! Please go back to the "
+#~ "Vendor Dashboard and click Show Orders on the product you'd like to view."
+#~ msgstr "请从经销商面板选取一个您发布的商品，点击查看订单后在本页查看信息。"
+
+#, fuzzy
+#~ msgid "Tracking number"
+#~ msgstr "跟踪代码:"
+
+#~ msgid "Full name"
+#~ msgstr "名称"
+
+#~ msgid "Address"
+#~ msgstr "地址"
+
+#~ msgid "City"
+#~ msgstr "城市"
+
+#~ msgid "State"
+#~ msgstr "省"
+
+#~ msgid "Zip"
+#~ msgstr "邮编"
+
+#~ msgid "Email address"
+#~ msgstr "电邮地址"
+
+#~ msgid "Success. The customer has been notified of your comment."
+#~ msgstr "顾客已经收到该备注。"
+
+#~ msgid "Apply to become a vendor?"
+#~ msgstr "是否愿意成为供应商?"
+
+#~ msgid "Application denied. You are an administrator."
+#~ msgstr "申请被拒绝了，您是管理员啊，想什么呢？"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "Your account is not vendor capable."
+#~ msgstr "您还不是供应商呢！"
+
+#~ msgid "Submit"
+#~ msgstr "提交"
+
+#~ msgid "Control Center"
+#~ msgstr "链接导航"
+
+#~ msgid "My shop"
+#~ msgstr "我的店铺"
+
+#~ msgid "My settings"
+#~ msgstr "我的设置"
+
+#~ msgid "Submit a product"
+#~ msgstr "发布商品"
+
+#~ msgid "Hide items"
+#~ msgstr "隐藏项目"
+
+#~ msgid "View items"
+#~ msgstr "查看项目"
+
+#~ msgid "Links"
+#~ msgstr "链接"
+
+#~ msgid "Unmark shipped"
+#~ msgstr "标记为未发货"
+
+#~ msgid "Mark shipped"
+#~ msgstr "标记为已发货 "
+
+#~ msgid "Total:"
+#~ msgstr "小计:"
+
+#~ msgid "Sales Report"
+#~ msgstr "销售报表"
+
+#~ msgid "Rate"
+#~ msgstr "比率"
+
+#~ msgid "Show Orders"
+#~ msgstr "查看订单"
+
+#~ msgid "Totals"
+#~ msgstr "小计"
+
+#~ msgid "PayPal Address"
+#~ msgstr "Paypal邮箱"
+
+#~ msgid "Your PayPal address is used to send you your commission."
+#~ msgstr " "
+
+#~ msgid "This is displayed on each of your products."
+#~ msgstr "将会显示在每一个您发布的商品的下方。"
+
+#~ msgid "Shop Description"
+#~ msgstr "店铺描述"
+
+#~ msgid "This is displayed on your <a href=\"%s\">shop page</a>."
+#~ msgstr "将会显示在您的<a href=\"%s\">店铺页面</a>."
+
+#~ msgid "Shop Name"
+#~ msgstr "店铺名称"
+
+#~ msgid "Your shop name is public and must be unique."
+#~ msgstr "公开显示的店铺名称，应该是一个唯一并且合法的字符串，可用中文。"
+
+#~ msgid "Order: %s"
+#~ msgstr "订单: %s"
+
+#~ msgid "Customer details"
+#~ msgstr "顾客详情"
+
+#~ msgid "Product title: %s"
+#~ msgstr "产品名称: %s"
+
+#~ msgid "Edit product: %s"
+#~ msgstr "编辑商品: %s"
+
+#~ msgid ""
+#~ "A vendor has marked part of your order as shipped. The items that are "
+#~ "shipped are as follows:"
+#~ msgstr "您购买的商品的供应商确认TA已发货，物流状况："
+
+#~ msgid "Add comment"
+#~ msgstr "添加备注"
+
+#~ msgid "added %s ago"
+#~ msgstr "添加于 %s 前"
+
+#~ msgid "Export orders"
+#~ msgstr "导出订单"
+
+#~ msgid "Customer note"
+#~ msgstr "顾客备注"
+
+#~ msgid "No customer note."
+#~ msgstr "没有顾客备注"
+
+#~ msgid "Comments (%s)"
+#~ msgstr "备注 (%s)"
+
+#~ msgid "Provider:"
+#~ msgstr "供应者:"
+
+#~ msgid "Custom Provider"
+#~ msgstr "自定义供应者"
+
+#~ msgid "Provider Name:"
+#~ msgstr "供应者名称:"
+
+#~ msgid "Tracking number:"
+#~ msgstr "跟踪代码:"
+
+#~ msgid "Tracking link:"
+#~ msgstr "跟踪链接:"
+
+#~ msgid "Date shipped:"
+#~ msgstr "发货日期:"
+
+#~ msgid "Preview:"
+#~ msgstr "预览:"
+
+#~ msgid "Click here to track your shipment"
+#~ msgstr "点击这里跟踪您的物流状况"
+
+#~ msgid "Mark as shipped"
+#~ msgstr "标记为已发货 "
+
+#~ msgid "Quantity: %d"
+#~ msgstr "数量: %d"
+
+#~ msgid "Total quantity: %d"
+#~ msgstr "总量: %d"
+
+#~ msgid "Shipping - Tracking #"
+#~ msgstr "物流跟踪 #"
+
+#~ msgid "Shipping - Mark Shipped"
+#~ msgstr "物流-标记为已发货"
+
+#~ msgid ""
+#~ "Enter your tracking number first before marking the order as shipped."
+#~ msgstr "请在标记为已发货前输入您的物流跟踪代码。"
